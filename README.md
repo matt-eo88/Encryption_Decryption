@@ -25,3 +25,5 @@ All the arguments are guaranteed to be passed to the program. If for some reason
 
 Keep in mind that the order of the arguments might be different. For example, -mode enc may be at the end, 
 at the beginning or in the middle of arguments array.
+
+![](encrypt-decrypt.gif)
